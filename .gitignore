@@ -1,0 +1,7 @@
+data/test
+data/train
+.ipynb_checkpoints/
+checkpoints/
+*.keras
+*.h5
+*.ckpt
