@@ -5,3 +5,4 @@ checkpoints/
 *.keras
 *.h5
 *.ckpt
+.venv/
